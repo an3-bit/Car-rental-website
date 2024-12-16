@@ -1,22 +1,4 @@
-Get the Pro Version at:
-https://templatesjungle.gumroad.com/l/limo-limousine-and-car-rental-free-html-website-template
-
-
-It is a free Bootstrap HTML CSS template by TemplatesJungle.com
-You can use this template as a starter template and start building as you require.
-
-The code is consistent and can be easily maintained as we have followed a good coding standards. We want everyone to easily understand it and modify it according to their requirement. As the main goal of providing these templates is to give you something to work on before even starting.
-
-
-DOCUMENTATION:
-https://docs.templatesjungle.com/
-
-
-FREE FOR BOTH PERSONAL AND COMMERCIAL USE:
-
-This HTML Template is provided by TemplatesJungle.com and is free to use in both personal and commercial projects as long as you don't remove our credit link in the footer.
-
-However, you can remove the credit link by paying for PRO version of the template which also includes additional pages.
+this is a car rental app template: 
 
 
 RIGHTS:
@@ -24,20 +6,6 @@ RIGHTS:
 You are allowed to use it in your personal projects and commercial projects.
 
 You can modify and sell it to your clients.
-
-
-PROHIBITIONS:
-
-You cannot remove the credit link which links back to templatesjungle.com if you downloaded free version.
-
-You are not permitted to resell or redistribute (paid or free) as it is. 
-
-You cannot use it to build premium templates, themes or any other goods to be sold on marketplaces.
-
-If you want to share the free resource in your blog, you must point it to original TemplatesJungle.com resource page. 
-
-You cannot host the download file in your website.
-
 
 SUPPORT:
 
@@ -66,5 +34,5 @@ JQuery Plugins
 Swiper Slider - https://swiperjs.com/
 AOS - https://michalsnik.github.io/aos/
 
-Thanks for downloading from TemplatesJungle.com !
+
 
